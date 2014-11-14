@@ -1,5 +1,10 @@
 public class Diego{
   public static void main(String[] args){
+  System.out.println("Nick is terrible");
+  }
+
+}
+
   //Diego, I want you to make a program (its one line of code) that prints out "Nick is great".
   //If you need help, google it, again, its one line of code so it should be pretty easy.
   }
