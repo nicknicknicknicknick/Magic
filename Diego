@@ -1,6 +1,6 @@
 public class Diego{
   public static void main(String[] args){
-  System.out.println("Nick is terrible");
+  System.out.println("Nick is poop");
   }
 
 }
