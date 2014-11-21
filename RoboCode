@@ -42,21 +42,21 @@ int a = 1;
 //pretty self explanatory
 void eleUp()
 	{
-		motor[eleMotor] = -110;
+		motor[eleMotor] = 110;
 		motor[eleMotor2] = 110;
 		motor[eleMotor3] = 110;
 		motor[eleMotor4] = 110;
 	}
 void eleDown()
 	{
-		motor[eleMotor] = 110;
+		motor[eleMotor] = -110;
 		motor[eleMotor2] = -110;
 		motor[eleMotor3] = -110;
 		motor[eleMotor4] = -110;
 	}
 void eleStop()
 {
-		motor[eleMotor] = -20;
+		motor[eleMotor] = 20;
 		motor[eleMotor2] = 20;
 		motor[eleMotor3] = 20;
 		motor[eleMotor4] = 20;
